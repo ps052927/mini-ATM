@@ -1,5 +1,5 @@
 # mini-ATM
-this is my first project in c language <br>
+<h1>This is my first project in c language </h1><br>
 
 #include <stdio.h>
 #include <stdlib.h>
